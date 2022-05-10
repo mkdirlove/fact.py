@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/mkdirlove/crack-it.py"><img src="https://raw.githubusercontent.com/mkdirlove/crack-it.py/main/logo.png" alt="web-clicker"></a>
   <br>
-  Yet another usless tool to bruteforce Piso WiFi admin panel.
+  Yet another tool to bruteforce Piso WiFi admin panel.
   <br>
 </h1>
 
