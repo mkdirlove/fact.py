@@ -6,16 +6,13 @@
   <br>
 </h1>
 
-### Installing crack-it.py
+### Installation ang usage
 
 ```
  git clone https://github.com/mkdirlove/crack-it.py
 ```
 ```
  cd crack-it.py
-```
-```
- chmod +x crack-it.py
 ```
 ```
  python3 crack-it.py
