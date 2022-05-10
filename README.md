@@ -20,3 +20,7 @@
 ```
  python3 crack-it.py
 ```
+
+### Tutorial video
+
+Watch the tutorial here [Tutorial](https://www.facebook.com/groups/623297095733593/permalink/883572683039365/?fs=2&focus_composer=0&m_entstream_source=group&ref=m_notif&notif_t=group_comment).
