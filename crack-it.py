@@ -1,11 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""crack-it.py: Yet another tool to bruteforce Piso WiFi admin panel."""
+"""
+crack-it.py: Yet another tool to bruteforce Piso WiFi admin panel.
+
+"""
 
 __author__      = "Jayson Cabrillas San Buenaventura"
-__copyright__   = "Copyright 2022, MR.$UD0"
-
+__copyright__   = "Copyright 2022, MR.$UD0 / mkdirlove"
 
 import os
 import sys
