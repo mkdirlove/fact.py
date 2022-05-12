@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/mkdirlove/crack-it.py"><img src="https://raw.githubusercontent.com/mkdirlove/crack-it.py/main/logo.png" alt="crack-it.py"></a>
+  <a href="https://github.com/mkdirlove/crack-it"><img src="https://raw.githubusercontent.com/mkdirlove/crack-it/main/logo.png" alt="crack-it"></a>
   <br>
   Yet another tool to bruteforce Piso WiFi admin panel.
   <br>
@@ -9,15 +9,18 @@
 ### Installation ang usage
 
 ```
- git clone https://github.com/mkdirlove/crack-it.py
+ git clone https://github.com/mkdirlove/crack-it
 ```
 ```
- cd crack-it.py
+ cd crack-it
 ```
 ```
- python3 crack-it.py
+chmod +x crack-it.sh
+```
+```
+ bash crack-it.sh
 ```
 
 ### Tutorial video
 
-Watch the tutorial here [Tutorial](https://www.facebook.com/groups/623297095733593/permalink/883572683039365/?fs=2&focus_composer=0&m_entstream_source=group&ref=m_notif&notif_t=group_comment).
+Watch the tutorial here [Tutorial](https://giphy.com/gifs/rick-roll-g7GKcSzwQfugw/fullscreen).
