@@ -9,6 +9,15 @@
 ### Installation ang usage
 
 ```
+apt update
+```
+```
+apt upgrade
+```
+```
+apt install git python3
+```
+```
 git clone https://github.com/mkdirlove/fact.py
 ```
 ```
