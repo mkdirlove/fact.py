@@ -9,13 +9,10 @@
 ### Installation ang usage
 
 ```
- git clone https://github.com/mkdirlove/fact.py
+git clone https://github.com/mkdirlove/fact.py
 ```
 ```
- cd fact.py
-```
-```
-chmod +x fact.py
+cd fact.py
 ```
 ```
 python3 fact.py
