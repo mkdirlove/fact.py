@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/mkdirlove/fact.py"><img src="https://github.com/mkdirlove/fact.py/blob/main/logo.png" alt="fact.py"></a>
   <br>
-  Yet another tool to bruteforce Piso WiFi admin panel.
+  Yet another tool for Facebook account cloning.
   <br>
 </h1>
 
