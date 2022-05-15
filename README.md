@@ -15,13 +15,16 @@ apt update
 apt upgrade
 ```
 ```
-apt install git python3
+apt install git python3 python3-pip
 ```
 ```
 git clone https://github.com/mkdirlove/fact.py
 ```
 ```
 cd fact.py
+```
+```
+python3 -m pip install -r requirements.txt
 ```
 ```
 python3 fact.py
