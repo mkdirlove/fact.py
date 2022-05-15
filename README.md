@@ -24,8 +24,5 @@ git clone https://github.com/mkdirlove/fact.py
 cd fact.py
 ```
 ```
-python3 -m pip install -r requirements.txt
-```
-```
 python3 fact.py
 ```
